@@ -1,324 +1,551 @@
-[
-  {
-    "title": "Technical Delivery Manager - Python AI",
-    "company": "Luxoft",
-    "location": "Chennai, Tamil Nadu",
-    "skills": [
-      "Python"
-    ],
-    "description": "Project Description: We are looking for a motivated and experienced Delivery Manager with deep expertise in building Python / Pyspark data engineering solutions for a critical Trade Surveillance project built on Q KDB and Python / Pyspark Responsibilities :Mentor & guide Python developers & automation engineers in building world class product sPerform code reviews and provide constructive feedback to developer sManage a team of 30 developers & automation engineer sPrepare delivery plan and liai\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5773100155?se=7H8onI2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=E235B37D28BA8A4E83F1CB8DA8137DE166CD2EB8"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Unknown",
-    "location": "Warangal, Telangana",
-    "skills": [
-      "Python"
-    ],
-    "description": "Python Developer Job Description: Python Developer duties and responsibilities: -Write reusable, testable, and efficient code -Design and implement of low-latency, high-availability, and performance applications -Integration of user-facing elements developed by front-end developers with server side logic -Implementation of security and data protection -Integration of data storage solutions -Performance tuning, improvement, balancing, usability, automation -Work collaboratively with design team \u2026",
-    "apply_link": "https://www.adzuna.in/details/4686702979?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Vrinda International",
-    "location": "India",
-    "skills": [
-      "Python"
-    ],
-    "description": "? Hiring Alert | Python Developer ? ? Location: Bengaluru / Chennai / Pune / Mumbai / Delhi / Kolkata / Hyderabad ? Role: Python Developer ? Experience: 5\u20137 Years We are looking for a skilled Python Developer with strong backend development expertise and advanced Core Python programming skills to build scalable, high-performance applications. Requirements \u2022 5 years Python experience \u2022 Core Python, OOP, functional programming \u2022 Backend application development \u2022 Multithreading, multiprocessing, a\u2026",
-    "apply_link": "https://www.adzuna.in/details/5786738445?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Papigen",
-    "location": "Chennai, Tamil Nadu",
-    "skills": [
-      "Python"
-    ],
-    "description": "Job Summary We are hiring a Python Developer to design and build programs for data reconciliation, file comparison, and system integrations . The role focuses on developing efficient Python scripts, handling multiple file formats, and integrating with APIs and databases. Key Responsibilities Design and develop Python programs for file comparison and reconciliation . Build pipelines and automation scripts for data processing (JSON, XML, CSV, XLS) . Integrate applications with APIs, web services,\u2026",
-    "apply_link": "https://www.adzuna.in/details/5767402009?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Weekday AI",
-    "location": "India",
-    "skills": [
-      "Python"
-    ],
-    "description": "This role is for one of the Weekday's clients We are seeking a skilled Python Developer with a strong background in software development, specializing in Python and related frameworks. The ideal candidate will have experience in building scalable, high-performance applications and a keen interest in AI/ML technologies. This role requires hands-on expertise in backend development, API integration, and cloud platforms , along with a collaborative mindset to work in a fast-paced, innovative enviro\u2026",
-    "apply_link": "https://www.adzuna.in/details/5636067155?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "VDart Software Services Pvt. Ltd.",
-    "location": "India",
-    "skills": [
-      "Python"
-    ],
-    "description": "Python Developer Job Summary We are looking for a skilled Python Developer responsible for designing, developing, and maintaining modern Django 5.2 web application with Python calculation engine. The ideal candidate should have strong experience with Python 3.10, Django 5.2, and integration with external systems and APIs. Key Responsibilities Develop, customize, and maintain applications using Python 3.10, Django 5.2 Create and enhance custom modules, themes, and templates to meet project requi\u2026",
-    "apply_link": "https://www.adzuna.in/details/5803520244?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Innefu Labs Limited",
-    "location": "Maurya Enclave, North West Delhi",
-    "skills": [
-      "Python"
-    ],
-    "description": "Key Responsibilities: Lead the design, development, and maintenance of robust Python applications. Hands on experience in Elastic Search, ETL Framework . Collaborate with cross-functional teams to define, design, and ship new features. Mentor junior developers, providing guidance and technical leadership. Ensure code quality through best practices, code reviews, and testing. Identify and troubleshoot performance issues, optimizing applications for maximum speed and scalability. Stay updated wit\u2026",
-    "apply_link": "https://www.adzuna.in/details/5782609361?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Scout Incorporation",
-    "location": "India",
-    "skills": [
-      "Flask",
-      "Python"
-    ],
-    "description": "We're looking for Python Developers (India)! Responsibilities: Writing clean, efcient, and well-documented Python code Debugging and troubleshooting code issues Developing and maintaining software applications and tools using Flask and APIs Collaborating with team members to identify, design, and implement new features Participating in code reviews to ensure code quality and consistency Working with project managers and stakeholders to understand requirements and develop technical solutions Sta\u2026",
-    "apply_link": "https://www.adzuna.in/details/5810200651?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Unknown",
-    "location": "Thiruvananthapuram, Kerala",
-    "skills": [],
-    "description": "Immediate requirement for the post of Data Analyst on rotation Shift (Male or Female). Persons only willing to work in both shifts need to apply.careers.coretechgmail.comorplease contact 9.4.nine.6.8.1.5.6.3.0",
-    "apply_link": "https://www.adzuna.in/details/4686704238?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "SkySun",
-    "location": "India",
-    "skills": [],
-    "description": "Role Overview We are looking for a Data Analyst with strong expertise in Microsoft Excel who can efficiently work with large datasets, formulas, and analytical models. The ideal candidate should be able to transform raw data into meaningful insights , build efficient spreadsheets, and support business decisions through structured analysis and reporting. This role requires someone who is highly detail-oriented, analytical, and extremely efficient in Excel-based data handling. Key Responsibilitie\u2026",
-    "apply_link": "https://www.adzuna.in/details/5680120020?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "LRN Corporation",
-    "location": "India",
-    "skills": [],
-    "description": "Position: Data Analyst Location: Mumbai, India About LRN: LRN is the world\u2019s leading dedicated ethics and compliance SaaS company, helping more than 30 million people every year navigate complex regional and global regulatory environments and build ethical, responsible cultures. With over 3,000 clients across the US, EMEA, APAC, and Latin America\u2014including some of the world\u2019s most respected and successful brands\u2014we\u2019re proud to be the long-term partner trusted to reduce organizational risk and d\u2026",
-    "apply_link": "https://www.adzuna.in/details/5693524382?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Cloudester Software LLP",
-    "location": "Sevasi, Vadodara",
-    "skills": [],
-    "description": "We are looking for a Data Analyst with 2\u20133 years of experience for a 3-month contract . You will be responsible for extracting web data, organizing it in Excel, and communicating findings clearly to our team. Role Details Duration: 3 Months Experience Required: 2\u20133 years Location: Vadodara Key Responsibilities Extract data from various websites using web scraping tools. Clean, organize, and analyze the collected datasets. Write database queries to pull and manage information. Present data findi\u2026",
-    "apply_link": "https://www.adzuna.in/details/5793077025?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Weekday AI",
-    "location": "India",
-    "skills": [],
-    "description": "This role is for one of Weekday\u2019s clients Min Experience: 1 years Location: Nagpur JobType: full-time We're looking for a Data Analyst who is adaptable, quick to learn, and comfortable working across multiple projects and business functions. Unlike a dedicated role tied to one domain, this position will rotate/support across different projects as business priorities shift, making it ideal for someone who's curious, eager to build breadth, and thrives in a dynamic environment. Requirements Key R\u2026",
-    "apply_link": "https://www.adzuna.in/details/5795450231?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Proof of Skill",
-    "location": "Andheri, Mumbai",
-    "skills": [
-      "SQL"
-    ],
-    "description": "Analyzing hiring and candidate data to improve decision-making, shortlisting, and overall system efficiency. Skills: Logical/analytical thinking, Excel/Google Sheets, basic SQL, data interpretation, data visualization, attention to detail. Responsibilities: Analyze candidate and hiring data, build dashboards and reports, improve shortlisting/scoring systems, track hiring funnel metrics, work with ops/product teams, ensure data accuracy. This is a remote position.",
-    "apply_link": "https://www.adzuna.in/details/5786180968?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Sia",
-    "location": "Mumbai, Maharashtra",
-    "skills": [],
-    "description": "Job Description We are hiring a Power BI Developer to support our global internal teams (Finance, HR, Strategy, Corporate Functions) by delivering high-impact business intelligence dashboards, datasets, and analytics solutions. This role is critical for strengthening our internal reporting systems and driving data-backed decision-making across the organization. Key Responsibilities Design, maintain, and enhance internal Power BI dashboards and analytics for Corporate Finance and other functions\u2026",
-    "apply_link": "https://www.adzuna.in/details/5791623332?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Ubisoft",
-    "location": "Pune, Maharashtra",
-    "skills": [],
-    "description": "Job Description Impact - Enable data-driven decisions for leaders for LiveOps events, feature launches, and content updates through dashboards by defining datasets. Track KPIs including and not limited upto - Daily Active Users (DAU), Retention Rate, Churn Rate, ARPU (Average Revenue Per User), and session metrics. Make daily / weekly/monthly reports on player behavior, performance accuracy, engagement, and monetization / revenue trends to improve visibility. Proactively identify patterns, anom\u2026",
-    "apply_link": "https://www.adzuna.in/details/5802046407?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Digital Twin",
-    "location": "Pune, Maharashtra",
-    "skills": [
-      "Data Analysis"
-    ],
-    "description": "Job Summary - Data Analyst We are looking to hire a data analyst to join our enterprise customer solutions team. As a Data Analyst, one will take responsibility for developing reports, and troubleshooting data issues. To do well in this role you need attention to detail, past experience as a data analyst, and a deep understanding of the popular data analysis tools and databases. Data Analyst Responsibilities: \u25cf Commissioning and decommissioning of data sets. \u25cf Processing confidential data and i\u2026",
-    "apply_link": "https://www.adzuna.in/details/5735463452?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Network Software Engineering Leader - Presales & Delivery",
-    "company": "ACL Digital",
-    "location": "Bangalore, Karnataka",
-    "skills": [
-      "Git"
-    ],
-    "description": "Dear All, Greetings of the day\u2026! ACL Digital is actively hiring for Network Software Engineering Leader - Presales & Delivery to join our dynamic team in Bengaluru Job Requirement - 20 Years Industry Experience in Network Software Engineering Role Title - Networking Engineering Leader \u2013 Pre Sales & Delivery Role Overview We are seeking a senior, highly experienced Networking and Telecom Systems Architect who can own end to end responsibility from pre sales through delivery. This role requires d\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5774752603?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0737FED0799D7E4158DDC962E5AF83566055E486"
-  },
-  {
-    "title": "AEM Content Author",
-    "company": "RAPP Indian Ocean",
-    "location": "Chennai, Tamil Nadu",
-    "skills": [],
-    "description": "Hello Connections, We are hiring for Webmaster/ content author Job Location: Chennai IT WILL BE ROTATIONAL SHIFTS NOTE: WHO ARE READY TO WORK FOR ROTATIONAL SHIFTS ONLY APPLY Looking for immediate joiner. JOB PURPOSE The Webmaster/Web Assembler reports to the Team Lead and works closely with the Software engineers and Software Test engineers to provide quality delivery on the web application/website. He/she is responsible for integrating several modules together to create a web pages, added con\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5785410813?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=D12F9AE6BDD29E6C39109643CC5CC72DDF3E12AD"
-  },
-  {
-    "title": "Associate Professor - Computer Science",
-    "company": "Newton School of Technology",
-    "location": "Sonipat, Haryana",
-    "skills": [],
-    "description": "About the Company: Rishihood University, India\u2019s first impact university, in collaboration with Newton School of Technology, is redefining technology education through a future-focused, industry-integrated learning model. The university combines academic excellence with practical industry exposure to prepare students for successful careers in technology, innovation, and research. Key Responsibilities Deliver and mentor courses in Computer Networks and Compiler Design Design curriculum, assessme\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5776258768?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=F7C2280E0BB0E2A729EC8ADC15BA4834F2E5C98D"
-  },
-  {
-    "title": "Agent Engineer",
-    "company": "Tata Consultancy Services",
-    "location": "Bangalore, Karnataka",
-    "skills": [],
-    "description": "Role: Agent Engineer Experience: 3 - 6 years Location: Bengaluru Role Summar y We are building an AI-native B2B intelligence platform. You will build our core Agentic Harness \u2014 a performant, configurable agent layer that powers everything from our database search to sourcing and selling agents. This is a hands-on builder role focused on system design, observability, and agent performance. Roles & Responsibiliti Build a lightweight, scalable agent harness that allows the business to configure an\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5753192857?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=34146D4EBDA58CDD2469D33B4415EF66930B5953"
-  },
-  {
-    "title": "Technical Project Manager",
-    "company": "Ascendion",
-    "location": "Bangalore, Karnataka",
-    "skills": [
-      "Java"
-    ],
-    "description": "Job Title :: Technical Delivery Manager Location :: Bengaluru (Hybrid) Minimum relevant years of experience :: 10 Years Must have skills: Guidewire Platform (Policy Center / Billing Center) Guidewire Integrations (Web Services, REST APIs) GOSU & Java Development Guidewire Cloud Experience Job Description: Core must have: 5-10 Years Insurance and Guidewire experience. Including Technical Architecture and Engineering Manager of a 7-8 team. BAU experience. Guidewire Cloud Experience. Guidewire Int\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
-  },
-  {
-    "title": "Head of Sales",
-    "company": "Neilsoft",
-    "location": "India",
-    "skills": [
-      "Git"
-    ],
-    "description": "Position: Head of Sales \u2013 Software Engineering Services (SES) Geographic Focus: Global Sales Motion: New logo hunting  strategic account growth Team: Build & lead a dedicated SES Sales team from ground up Experience: 10 years in B2B technology sales leadership; Engineering Software / Digital Transformation domain Role Purpose Own and drive revenue growth for Neilsoft's SES Business Unit across Digital Transformation, Engineering Software Services, and Product Engineering domains. The Head of Sa\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5801404064?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=1B099F432EB24076320734A5B2D12B9A04A32F57"
-  },
-  {
-    "title": "Cyber Security Consultant",
-    "company": "Tata Consultancy Services",
-    "location": "Hyderabad, Telangana",
-    "skills": [],
-    "description": "Company : TCS Skill : One Identity Experience : 4 to 15 Years Location : Hyderabad & Pune Date : 18th July 2026 (Saturday) Interview Mode : Face to Face (Walkin) Job Description : Experience as a One Identity Manager Engineer, Strong understanding of IAM concepts, including authentication, authorization, and access control. Through understanding of One Identity Manager Experienced in One Identity data model and able to make customization Experience in building and maintaining One Identity conne\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5799881165?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=17AC10A673E636E90111E4BB5FB16656E47266F8"
-  },
-  {
-    "title": "Assistant Professor / Associate Professor / Professor Computer Science & Engineering and Adjacent Disciplines",
-    "company": "Woxsen University",
-    "location": "Hyderabad, Telangana",
-    "skills": [],
-    "description": "Woxsen University is one of India's leading private universities, recognized for academic excellence, global engagement, interdisciplinary education, and research-led innovation. The School of Technology is committed to developing future-ready engineers and researchers who solve real-world challenges through cutting-edge teaching, impactful research, and strong industry collaboration. We invite applications from exceptional academics and researchers for faculty positions at the Assistant Profes\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5795462718?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=23008571310C2E9CBB1C8B4195B8F3BE3A2BAF9A"
-  },
-  {
-    "title": "Associate / Assistant Professor - Advanced Computing",
-    "company": "DBS Global University",
-    "location": "Dehradun, Uttarakhand",
-    "skills": [
-      "Git",
-      "Machine Learning"
-    ],
-    "description": "DBS Global University (formerly Doon Business School Group) is looking for dynamic academic leaders and researchers for its School of Advanced Computing in Dehradun. Open Positions Associate Professor Assistant Professor Specializations Required Artificial Intelligence & Machine Learning (AI/ML) Data Science & Big Data Analytics Cyber Security & Digital Forensics Cloud Computing & DevOps Full Stack Development / Software Engineering Robotics IOT Drone Technology iOS Development Eligibility Crit\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5778926218?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0BD8DDB20FCDA19F3B4025FAC77720CA8E9471C0"
-  },
-  {
-    "title": "Assistant Professor\u2013 Programming Languages(First Year Students)",
-    "company": "Vishwakarma Institute Of Technology",
-    "location": "India",
-    "skills": [],
-    "description": "About the Role We are inviting applications from enthusiastic and academically strong candidates for the position with expertise in Programming Languages. The selected candidate will play a key role in building strong programming fundamentals among students while contributing to curriculum development, research, and institutional growth. Key Responsibilities Teach Programming Languages through lectures, tutorials, practical sessions, and laboratory exercises. Deliver courses in C Programming, C\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5806139273?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=7089FD97F85A125355E29CAC6A0AC478EFDAC728"
-  },
-  {
-    "title": "Faculty Member (as per UGC Cadre) - Computer Science, AI & Machine Learning",
-    "company": "ATLAS SkillTech University",
-    "location": "Mumbai, Maharashtra",
-    "skills": [
-      "Deep Learning",
-      "Machine Learning",
-      "NLP"
-    ],
-    "description": "Role Overview Atlas SkillTech University invites applications from dynamic academicians, researchers, and industry practitioners in Computer Science, Artificial Intelligence, Machine Learning, and allied domains. The selected faculty will anchor advanced courses in AI/ML, Deep Learning, NLP, Generative AI, and Data Science while driving cutting-edge research and industry-linked innovation. As part of the vibrant uGDX School of Technology, you will mentor India's next generation of AI engineers \u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5787963989?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=3AA53270E70C188754E2DD286FEE1A3C3616EE72"
-  },
-  {
-    "title": "Assistant Professor \u2013 Computer Science & Engineering (AI & ML)",
-    "company": "Brainware University",
-    "location": "Kolkata, West Bengal",
-    "skills": [
-      "Machine Learning"
-    ],
-    "description": "Brainware University, Barasat, West Bengal, India (On-site)  We Are Hiring: Assistant Professor \u2013 Computer Science & Engineering (AI & ML) Are you a passionate academician in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or allied emerging technologies ? Do you want to build a career in a research-driven, innovation-focused university that values teaching excellence, publications, funded projects, and AI-enabled learning ? Brainware University invites applications f\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5783569310?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=510C23BD2415EECEC8040713A0879ED9A19E74AF"
-  },
-  {
-    "title": "Data Science Instructor",
-    "company": "upGrad",
-    "location": "Jaipur, Rajasthan",
-    "skills": [
-      "Deep Learning",
-      "Machine Learning"
-    ],
-    "description": "Data Science Instructor (Jaipur) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic Data Science Instructor in Jaipur Key Responsibilities As a Instructor, you will play a vital role in ensuring high-quality learning outcomes: Deliver High-Impact Sessions: Conduct engaging, in-person lectures and hands-on training sessions in Data Science, Machine Learning, Deep Learning, and cutting-edge GenAI/Agentic AI frameworks. Project Mentorship: Guide learners through re\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5806140450?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=6D2845F232523FDFE0FDD8CB7BC2306085E389FE"
-  },
-  {
-    "title": "Project Manager",
-    "company": "NR Consulting",
-    "location": "Bangalore, Karnataka",
-    "skills": [],
-    "description": "Job Description \u2013 Technical Project Manager (TPM) \u2013 AI/ML Position Technical Project Manager (TPM) \u2013 AI/ML Experience 13\u201319 Years Locations Hyderabad, Bangalore, Chennai, Pune, Kolkata, Gurgaon Job Summary We are looking for an experienced and dynamic Technical Project Manager (TPM) with strong expertise in AI/ML technologies, MLOps, Data Engineering, and Data Science. The ideal candidate will lead large-scale AI transformation programs, manage cross-functional technical teams, and drive end-to\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5802784672?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=A1A9BD1CA52643266CA1D5115E7F33A39A6B6AD6"
-  },
-  {
-    "title": "Teaching Assistant",
-    "company": "Talescope",
-    "location": "India",
-    "skills": [],
-    "description": "We are looking for researchers who can work with us as Teaching Assistants for one of our clients which is one of the biggest educational institutes in India. As a Teaching Assistant, your role will be to support learners throughout the course by providing academic guidance, evaluating assessments, and ensuring an engaging learning experience. Responsibilities: Provide academic support by responding to learner queries through discussion forums, email, and live doubt-clearing sessions. Evaluate \u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5809278240?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=F136D628F29955FFB6C2EE4EE68AFB9109642FB9"
-  },
-  {
-    "title": "Part time Data Science Instructor",
-    "company": "upGrad",
-    "location": "Chandigarh, India",
-    "skills": [],
-    "description": "Part-Time Data Science & AI Instructor (Chandigarh) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic, part-time Data Science Instructor in Chandigarh who is well-versed in cutting-edge technologies like Generative AI and Agentic AI . If you want to balance your current professional commitments while mentoring ambitious students and working professionals in a classroom setting, this is the perfect role for you! Type: Part-Time Location: Chandigarh (In-person cl\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5786785222?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=78D6E4552F3A298AAD947A4F7456D861BB972055"
-  },
-  {
-    "title": "Assistant Professor of Computer Science",
-    "company": "SRM Institute of Science and Technology, Kattankulathur Campus",
-    "location": "India",
-    "skills": [
-      "Deep Learning",
-      "Machine Learning"
-    ],
-    "description": "SRM Institute of Science & Technology, Kattankulathur Campus, Chengalpattu Opening in School of Computing under 4 departments Computing Technologies Computational Intelligence Network and Communications Data Science and Business Systems Opening for Assistant Professor Experience - 0 to 18 years can apply Ph.D Specialization in CSE, IT, AI, ICE, Machine learning & Deep learning techniques. UG any degree, PG in M.E or M.Tech related to computer Science background. Note: Ph.D completed or Thesis S\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
-  },
-  {
-    "title": "Assistant Professor of Computer Science",
-    "company": "Manav Rachna International Institute of Research & Studies",
-    "location": "Faridabad, Haryana",
-    "skills": [],
-    "description": "Key Responsibilities: Develop and deliver engaging course content Assess and evaluate student performance Conduct research and publish findings in academic journals Participate in departmental meetings and committees Mentor and advise students on academic and career paths Stay updated with the latest advancements in computer science Qualifications: Ph.D. in Computer Science or a related field Minimum of 3 years of teaching experience at the university level Demonstrated research experience with\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5760052496?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=FBFF47F02B8AF8641B62BE3825366489ECB1DF96"
-  }
-]
+{
+  "profile_id": 5,
+  "generated_at": "2026-07-24T17:09:07.074775+00:00",
+  "search_terms": [
+    "CSS",
+    "FastAPI",
+    "Git",
+    "Java",
+    "JavaScript"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Support - on call/ chat resolution",
+      "company": "Movate",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "CSS",
+        "R"
+      ],
+      "description": "Movate (formerly known as CSS Corp) is a global customer experience and technology consulting services provider, disrupting the industry with a unique intersection of industry-leading proprietary solutions, resilient operations, and innovative business engagement models. It has emerged as a compelling alternative to the traditional IT and support service providers with its premium service offerings and differentiated value propositions that solve clients\u2019 critical business problems proactively.\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5795469075?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=750F726BF57E03052446D4495DB4108A7CD19369"
+    },
+    {
+      "title": "Technical voice proces - (on call Support - Helpdesk)",
+      "company": "Movate",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "CSS",
+        "R"
+      ],
+      "description": "Hi Candidate, Please find the Job Description and company profile below Please be available for a technical discussion today. Will confirm the timings shortly. Movate (formerly known as CSS Corp) is a global customer experience and technology consulting services provider, disrupting the industry with a unique intersection of industry-leading proprietary solutions, resilient operations, and innovative business engagement models. It has emerged as a compelling alternative to the traditional IT an\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5795582023?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=A9D0086F2CE03F62A225A0AE034D809D5BD5F834"
+    },
+    {
+      "title": "HTML/CSS",
+      "company": "Sokrati",
+      "location": "Pune, Maharashtra",
+      "skills": [
+        "CSS",
+        "Git",
+        "HTML",
+        "R"
+      ],
+      "description": "Are you interested in building products used by hundreds of millions of people? Do you like shipping code at a rapid pace? Sokrati is seeking an experienced HTML and CSS developer who is passionate about building web applications. Sokrati, a leader in Paid Search & Social Advertising, provides an effective and results oriented technology solution to help ecommerce brands reap tangible returns on their digital marketing efforts. with a 200 strong and smart team we are rapidly building mind-space\u2026",
+      "apply_link": "https://www.adzuna.in/details/5125516857?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Tailwind CSS",
+      "company": "Wissen Technology",
+      "location": "Pune, Maharashtra",
+      "skills": [
+        "Angular",
+        "CSS",
+        "R",
+        "React"
+      ],
+      "description": "Proficiency in Tailwind CSS for development. Experience in troubleshooting and debugging frontend applications. Solid understanding and hands-on experience with either Angular or React . Strong communication skills with the ability to collaborate effectively within a team. A keen eye for detail and a passion for creating seamless user experiences. Skills:- tailwindcss and Troubleshooting",
+      "apply_link": "https://www.adzuna.in/details/5211779084?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "CSS Developer",
+      "company": "Jobdost",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "R"
+      ],
+      "description": "Designation: Associate (ASSO_DEV123) Office Location: Goregaon Mumbai Position Description: 2 years of experience on development. Primary Responsibilities: Translate designs and style guides provided by the UI/UX team into functional user interfaces, ensuring cross browser compatibility and performance Build efficient and reusable front-end system that drive complex web applications Identify, address performance bottleneck and communicate best practices for front end engineering Responsible for\u2026",
+      "apply_link": "https://www.adzuna.in/details/2577819077?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Senior Technical Lead",
+      "company": "HCLTech",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "CSS",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R"
+      ],
+      "description": "Adobe Analytics - Pan India Skill Requirements Technical Skills & Experience: Minimum 5 years of hands-on experience in web analytics, data collection, or a related technical field. Strong proficiency in JavaScript and deep familiarity with HTML/CSS and DOM manipulation. Demonstrated expertise in Adobe Launch (Data Collection), Adobe Analytics, and Adobe Experience Platform (AEP). Solid understanding of data layer design, XDM schemas, and event tracking best practices. Skilled in using browser \u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5801400186?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=B044E34B3597411EF6A1938063CD9FE233EB3EE1"
+    },
+    {
+      "title": "Technical voice process",
+      "company": "Movate",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "CSS",
+        "R"
+      ],
+      "description": "Dear Candidate, Greetings from Movate technologies formerly known as CSS Corp! TechnicaL/Customer Support Role Voice Process Ambattur Chennai Please find below Job Description for your reference Job Title: Customer Support Voice Process. Experience: Minimum 6mos to 1 Year of Experience into Technical Voice Support/Customer voice support. Education Qualification. Any bachelor\u2019s degree. Roles and Responsibilities: 1. Assisting the US customers through Calls. 2.Should be capable of handling multip\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5805165085?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=5082E6847BB21CD05ED72B7CD46A2A6879BA74AC"
+    },
+    {
+      "title": "Client Service Specialist",
+      "company": "Alliance International Servicing",
+      "location": "Noida, Ghaziabad",
+      "skills": [
+        "CSS",
+        "R"
+      ],
+      "description": "Alliance International is looking for our next Client Service Specialist (CSS) to join our Noida Client Services Team! We consider any young professionals who has a good command of English both in writing and verbal communication who is looking for a start in an international organization. As long as you are driven, we will set you with the right foundation for your success in the insurance industry. The Best Thing About the Role! Learn from the Best - You will train directly with the top insur\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5810845226?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=72150AC10BF2D7EF0D4C81AF8A9B1038774BB4F8"
+    },
+    {
+      "title": "Website Graphic Designer",
+      "company": "Synergy Technologies",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "Git",
+        "R"
+      ],
+      "description": "Role: Website Designer (with Video Editing & Graphic Designing Skills) Location: Bangalore Summary We are looking for a creative and technically skilled Website Designer with expertise in modern web technologies, along with strong graphic design and video editing capabilities. The ideal candidate should be able to design, develop, and enhance digital experiences while ensuring visual appeal and performance. Key Responsibilities Design and develop responsive, user-friendly websites with a strong\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5802782623?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=62184B061057E25D5D94377E4F1EFA53FF4BB4C5"
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Intellipaat",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "R"
+      ],
+      "description": "Job Description: Assistant Professor Location: Chennai as per business requirements Role Overview We are hiring for the role of Technical Research Analyst (TRA), an ideal opportunity for students passionate about Mentoring, teaching, research, and innovation. This role offers the chance to make a meaningful impact by contributing to industry-aligned curriculum design, delivery, creating hands-on exercises, project work while mentoring the next generation of tech professionals. Key Responsibilit\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5812612755?se=kgVbaoKH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=6abd39fa&v=EE4456E3EA11602812A44A090FE18439483080DB"
+    },
+    {
+      "title": "Agent Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "R"
+      ],
+      "description": "Role: Agent Engineer Experience: 3 - 6 years Location: Bengaluru Role Summar y We are building an AI-native B2B intelligence platform. You will build our core Agentic Harness \u2014 a performant, configurable agent layer that powers everything from our database search to sourcing and selling agents. This is a hands-on builder role focused on system design, observability, and agent performance. Roles & Responsibiliti Build a lightweight, scalable agent harness that allows the business to configure an\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5753192857?se=0vnQaoKH8RGEopbyd0f8Hw&utm_medium=api&utm_source=6abd39fa&v=34146D4EBDA58CDD2469D33B4415EF66930B5953"
+    },
+    {
+      "title": "Python Developer (FastAPI)",
+      "company": "Hunarstreet Technologies Pvt Ltd",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R"
+      ],
+      "description": "Job Title: Python Developer (FastAPI) Experience Required: 4 years Location: Pune, Bangalore, Hyderabad, Mumbai, Panchkula, Mohali Shift: Night Shift 6:30 pm to 3:30 AM IST About the Role We are seeking an experienced Python Developer with strong expertise in FastAPI to join our engineering team. The ideal candidate should have a solid background in backend development, RESTful API design, and scalable application development. Required Skills & Qualifications \u00b7 4 years of professional experienc\u2026",
+      "apply_link": "https://www.adzuna.in/details/5416720146?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Backend Engineer (Python / FastAPI)",
+      "company": "Plane Software",
+      "location": "Hyderabad, Telangana",
+      "skills": [
+        "Git",
+        "R"
+      ],
+      "description": "About Plane Plane\u2019s mission is to build the infrastructure the world\u2019s work runs on. We want teams to move faster without losing context, and organizations to retain the flexibility and control they need. Our team is building that work infrastructure as an open, adaptable platform for projects, knowledge, and requests\u2014simple enough for any team to adopt and dependable enough for organizations to build on. Plane began in public on [GitHub]( https://github.com/makeplane/plane ) at the end of 2022\u2026",
+      "apply_link": "https://www.adzuna.in/details/5803817474?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Senior Backend Engineer - FastAPI",
+      "company": "LearnTube.ai",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "FastAPI",
+        "GCP",
+        "Git",
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "R",
+        "REST API",
+        "SQL"
+      ],
+      "description": "Required Core Tech Stack: We're looking for engineers with hands-on experience across most of the following technologies: Python Backend Development (3 years) FastAPI (2 years of production experience required) PostgreSQL MongoDB Redis Docker Celery or equivalent async task queues REST APIs & Microservices AWS/GCP GitLab CI/CD The selected Sr. Backend engineer will ship the backbone that powers 4 million  learners in 64 countries \u2014owning APIs that crunch 1 billion learning events & the AI that \u2026",
+      "apply_link": "https://www.adzuna.in/details/5770458005?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Backend Lead (Python / FastAPI)",
+      "company": "Mancraft Consulting",
+      "location": "Delhi, India",
+      "skills": [
+        "R"
+      ],
+      "description": "Job Description: About the Role You will design and build the entire Evernine Brands data platform \u2014 the ingestion pipelines, schema normalisation engine, and API surface that the Flutter frontend and AI systems consume. You will work directly with the founder, alongside the Frontend Lead and a dedicated AI/ML Lead who owns the intelligence and prescription layer. This is a pure data and API engineering role. You own the reliability, scalability, and correctness of the data platform. The AI/ML \u2026",
+      "apply_link": "https://www.adzuna.in/details/5728404033?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Full Stack Python Developer (FastAPI)",
+      "company": "Topcoder",
+      "location": "Noida, Ghaziabad",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R",
+        "REST API"
+      ],
+      "description": "We are looking for a Full Stack Python Developer with strong hands-on experience in Python and FastAPI to build and maintain scalable web applications and APIs. Responsibilities Develop and maintain backend services and REST APIs using Python and FastAPI Work on end-to-end features across backend and frontend Integrate databases and third-party services Write clean, maintainable, and testable code Collaborate with cross-functional teams in an Agile setup Skills Required Strong Python developmen\u2026",
+      "apply_link": "https://www.adzuna.in/details/5671080668?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Python Backend Developer Intern (FastAPI)",
+      "company": "appscrip",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R"
+      ],
+      "description": "Python Backend Developer Intern (FastAPI) Location: Bangalore (On-site) Company: Appscrip About Appscrip At Appscrip, we build products that solve real business problems using modern technologies like AI, cloud infrastructure, and scalable backend systems. We're looking for developers who enjoy building things, learning quickly, and aren't afraid to dive into new technologies. If you've built projects in Python, experimented with FastAPI, or spent time playing around with AI and LLMs, we'd love\u2026",
+      "apply_link": "https://www.adzuna.in/details/5812187923?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Staff Developer (Python FastAPI, React)",
+      "company": "Emerson",
+      "location": "Chandigarh, India",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R",
+        "REST API",
+        "React"
+      ],
+      "description": "Description If you are an Application Developer looking to grow your career building enterprise-grade product and asset management platforms, this role offers the opportunity to work on MyAssets, Field Device Data Hub (FDDH), and product documentation APIs for a global automation technology leader. Working alongside a Senior Developer, you will contribute to Python FastAPI backend services, React front-end interfaces, and REST API integrations, including third-party documentation vendor connect\u2026",
+      "apply_link": "https://www.adzuna.in/details/5812886753?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "GIT Trainee (Contractual)",
+      "company": "Colgate-Palmolive",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "R"
+      ],
+      "description": "No Relocation Assistance Offered Job Number 172352 - Mumbai, Maharashtra, India Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pets, and our\u2026",
+      "apply_link": "https://www.adzuna.in/details/5684829755?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Geographic Information System Specialist",
+      "company": "Tata Consultancy Services",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "CSS",
+        "Git",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R",
+        "REST API",
+        "React"
+      ],
+      "description": "Skill: GIS Developer Experience: 5-10 yrs Location: Chennai Roles: Strong proficiency in ReactJS and JavaScript. Experience with ArcGIS Maps SDK for JavaScript and related libraries. Familiarity with web technologies like HTML5, CSS3, and REST APIs. Understanding of geospatial concepts and GIS systems. Knowledge of modern front-end build pipelines and tools. Experience with version control systems such as Git. Exposure to Micro front-end",
+      "apply_link": "https://www.adzuna.in/land/ad/5801147332?se=9khJa4KH8RGEopbyd0f8Hw&utm_medium=api&utm_source=6abd39fa&v=DE08C5B6EB98E2A561C8BB5FB112E0FB30161B21"
+    },
+    {
+      "title": "Technical Documentation Manager",
+      "company": "CBTS",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "AWS",
+        "R"
+      ],
+      "description": "Technical Documentation Manager (AWS & CASH Platform) WFO/Chennai Overview We are seeking a detail-oriented and highly skilled Technical Documentation Manager to lead the creation, organization, and maintenance of documentation for our AWS and CASH Platform team. This role is critical in ensuring that all technical processes, systems, and workflows are clearly documented, up to date, and easily accessible. The ideal candidate is an exceptional writer with strong English proficiency and a solid \u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5783570285?se=9khJa4KH8RGEopbyd0f8Hw&utm_medium=api&utm_source=6abd39fa&v=97960D2F51F2BF061E9B5E3B75A1F2D25FA720FB"
+    },
+    {
+      "title": "Technical Lead Java - GIT",
+      "company": "Getinz Techno Services",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "Excel",
+        "R"
+      ],
+      "description": "Experience - 8 to 12 Years Location - Tirunelveli / Chennai Work Mode - Work from Office Key Responsibilities: Leadership: Guide and mentor a team of developers, ensuring smooth project execution while focusing on technical excellence. Collaboration: Work closely with architects, stakeholders, and other teams to align technical solutions with business needs and ensure best practices are followed. Technical Expertise: Be involved in complex design and architecture decisions, with a focus on crea\u2026",
+      "apply_link": "https://www.adzuna.in/details/5576792253?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "GCP Cloud Practitioner",
+      "company": "People Tech Group Inc",
+      "location": "Hyderabad, Telangana",
+      "skills": [
+        "GCP",
+        "R",
+        "SQL"
+      ],
+      "description": "Job description We are seeking a GCP Cloud Practitioner to support cloud infrastructure, monitor services, and assist with deploying cloud solutions on Google Cloud.  Responsibilities * Deploy and manage Compute Engine virtual machines. * Configure Cloud Storage buckets. * Manage IAM roles and permissions. * Monitor resources using Cloud Monitoring. * Assist with VPC network configuration. * Support Cloud SQL databases. * Troubleshoot GCP infrastructure issues. * Maintain cloud documentation. *\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5801395884?se=9khJa4KH8RGEopbyd0f8Hw&utm_medium=api&utm_source=6abd39fa&v=2F4156D5686CCB7674FC85FD3D57F5E844BA34FB"
+    },
+    {
+      "title": "Manager, Engineering, Git & Gitaly Operations",
+      "company": "GitLab",
+      "location": "India",
+      "skills": [
+        "Git",
+        "R"
+      ],
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier\u2026",
+      "apply_link": "https://www.adzuna.in/details/5801804976?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Manager, Engineering, Git & Gitaly Operations",
+      "company": "Jobgether",
+      "location": "India",
+      "skills": [
+        "Git",
+        "R"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Manager, Engineering, Git & Gitaly Operations based in India. This leadership role is focused on building and operating the core infrastructure that powers large-scale software collaboration platforms. You will lead a team responsible for critical Git-based services, ensuring reliability, scalability, and performance across multiple deployment environments. The posit\u2026",
+      "apply_link": "https://www.adzuna.in/details/5806554112?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Air Reservations - GIT, FIT, MICE",
+      "company": "Veena World",
+      "location": "India",
+      "skills": [
+        "R"
+      ],
+      "description": "Eligibility: 3 - 8 years of experience in international air ticketing Graduate preferably in travel studies and/or Diploma/equivalent in travel and tourism IATA/UFTAA or any other authorized airline course Responsibilities: Block the PNR, track and issue or release as per timeline. Issue flight tickets through Amadeus/Sabre system Process upgradation and special service requests Process re-issuance/cancellation/refund of air tickets Maintain daily MIS",
+      "apply_link": "https://www.adzuna.in/details/5750925032?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Product - GIT- Senior Executive / Executive",
+      "company": "Veena World",
+      "location": "India",
+      "skills": [
+        "R"
+      ],
+      "description": "Eligibility Bachelor\u2019s Degree (Preferably in Travel Studies) and/or Diploma Good knowledge of destinations Good written and verbal communication skills Proficient in MS Office Responsibilities Design and price group tour itineraries. Make promotional plan in coordination with the Marketing team and monitor responses. Monitor sales performance. Improvise the product as per feedback received from various sources.",
+      "apply_link": "https://www.adzuna.in/details/5751050682?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "GIS Developer",
+      "company": "Innefu Labs",
+      "location": "Delhi, India",
+      "skills": [
+        "R"
+      ],
+      "description": "About the Role We are looking for a highly skilled GIS Developer with strong expertise in QGIS , geospatial technologies, and web mapping solutions. The ideal candidate will be responsible for developing, managing, and optimising GIS applications, performing spatial analysis, building geospatial databases, and delivering high-quality mapping solutions. The role requires experience with modern GIS tools, spatial databases, and web mapping technologies. Requirements Required Skills & Experience T\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5786785353?se=9khJa4KH8RGEopbyd0f8Hw&utm_medium=api&utm_source=6abd39fa&v=BEF4A465B6B1D7FD10C1A099B7196D9EF1C0FB73"
+    },
+    {
+      "title": "Senior Java Sales Manager",
+      "company": "Oracle",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "Java",
+        "Linux",
+        "R"
+      ],
+      "description": "Location: Mumbai / Delhi, India Focus Areas: Enterprise Java Subscriptions & Oracle Linux Career Level: IC4 Role Overview Oracle is seeking a highly motivated, customer-focused, and results-oriented Java Sales Representative to drive growth across Enterprise Java Subscriptions and Oracle Linux solutions within the India market. This role is responsible for acquiring new customers, expanding Oracle's installed base, and accelerating subscription adoption across large enterprises, government orga\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5801399731?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=43C74C4858BC520E14795D3EB16E3C45FCAFB946"
+    },
+    {
+      "title": "Anylogic Simulation Engineer",
+      "company": "Tech Mahindra",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "Java",
+        "R"
+      ],
+      "description": "Job Title: Anylogic Simulation Engineer Location: ITPL, Bangalore (4 days Work From Office) Experience: 3 years Skills: Anylogic, Flexsim, Plantsim, Discrete Event Simulation About the Role We are looking for a skilled AnyLogic Developer with strong expertise in simulation modelling and Java development. This role involves creating and simulating 2D and 3D models, focusing on supply chain and logistics operations. Key Responsibilities Develop and maintain simulation models using AnyLogic. Desig\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5803594692?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=93E3F6BC2A502EC1983240D354815B7521214BDA"
+    },
+    {
+      "title": "Product Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Java",
+        "R"
+      ],
+      "description": "Location: Bangalore/ Thane Experience : 3 to 10 Years Must have worked in Core Banking 1.Hands on Expertise in developing Banking systems in Java architecture. 2.Experience in Java Application Design / Development and integration architecture along with modern technologies like Apache Kafka, Container orchestration and microservices architecture. 3.Good level of exposure to cloud-native architecture and DevOps Practices . AWS/AZURE Exposure is nice to have 4.Experience using and developing REST\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5798139601?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=64B5080E534DD56638504F02E5D7170AE1B4A178"
+    },
+    {
+      "title": "Technical Project Manager",
+      "company": "Anoud Technologies LLC",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "Java",
+        "R"
+      ],
+      "description": "Position: Technical Project Manager \u2013 Java Location: Chennai (Work from Office) Experience: 10\u201316 years Employment Type: Full-Time About the Role Anoud Technologies is looking for a seasoned Technical Project Manager with strong Java-based development expertise and mandatory experience in the Insurance domain to lead cross-functional engineering teams. The ideal candidate combines deep technical understanding with proven project leadership skills, ensuring complex insurance-related projects are\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5785794742?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=FC0E986373A35C5FB4F9EC859C301A9FC2D05A70"
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "CHANDIGARH UNIVERSITY",
+      "location": "India",
+      "skills": [
+        "Excel",
+        "Java",
+        "R"
+      ],
+      "description": "About the Company : Computer Science Engineering Department at Chandigarh University is dedicated to fostering academic excellence and innovation in the field of Computer Science and Information Technology. About the Role : The ideal candidate must possess B.Tech, M.Tech and Ph.D. in CSE or IT specializing in Java, Advanced Programming, Computer Graphics, DSA, DBMS, and Parallel Computing. A strong dedication to teaching, research, and academic excellence is essential. Responsibilities : Delive\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5789116549?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=6012F02A6308F5B522D9841182023D046169DB4E"
+    },
+    {
+      "title": "PLM Technical Lead",
+      "company": "Megan Soft Inc",
+      "location": "Chennai, Tamil Nadu",
+      "skills": [
+        "C#",
+        "C++",
+        "Git",
+        "Java",
+        "R"
+      ],
+      "description": "Position: PLM Technical Lead/Specialist Skills Required: 3DX, Java, C++, C#, Github Skills Preferred: AI, Data/Analytics dashboards, Google Cloud Platform",
+      "apply_link": "https://www.adzuna.in/land/ad/5801396465?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=BA3BB0437AF0DDDE730C2EAAF51009044135F010"
+    },
+    {
+      "title": "Technical Project Manager",
+      "company": "Ascendion",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "Java",
+        "R",
+        "REST API"
+      ],
+      "description": "Job Title :: Technical Delivery Manager Location :: Bengaluru (Hybrid) Minimum relevant years of experience :: 10 Years Must have skills: Guidewire Platform (Policy Center / Billing Center) Guidewire Integrations (Web Services, REST APIs) GOSU & Java Development Guidewire Cloud Experience Job Description: Core must have: 5-10 Years Insurance and Guidewire experience. Including Technical Architecture and Engineering Manager of a 7-8 team. BAU experience. Guidewire Cloud Experience. Guidewire Int\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=mhzCa4KH8RGyfJg26iq6rg&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
+    },
+    {
+      "title": "Geographic Information System Developer",
+      "company": "People Tech Group Inc",
+      "location": "India",
+      "skills": [
+        "R"
+      ],
+      "description": "Job Title: GIS Developer Experience 3\u20137 Years Job Location Hyderabad (Hybrid/Onsite) Employment Type Full-Time Job Summary We are looking for a skilled GIS Developer with strong expertise in developing, customizing, and maintaining Geographic Information System (GIS) applications. The ideal candidate should have hands-on experience with Esri ArcGIS technologies , spatial databases, web GIS development, and geospatial data processing. The candidate will work closely with business stakeholders, G\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5804793020?se=Dno7bIKH8RGrg5YQe_eAEA&utm_medium=api&utm_source=6abd39fa&v=3338EC753FF98BA4D340EFB0D46D0ABBEF968C6B"
+    },
+    {
+      "title": "javascript",
+      "company": "White Collar Org",
+      "location": "Pune, Maharashtra",
+      "skills": [
+        "MongoDB",
+        "Node.js",
+        "R",
+        "React"
+      ],
+      "description": "Building interactive consumer data from multiple systems and RESTfully abstracting to the UI through a Node.js backend Define code architecture decisions to support a high-performance and scalable product with a minimal footprint Address and improve any technical issues Collaborate well with engineers, researchers, and data implementation specialists to design and create advanced, elegant and efficient systems Skills:- NodeJS (Node.js), MongoDB, React.js, MEAN stack and Express",
+      "apply_link": "https://www.adzuna.in/details/3609222623?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript",
+      "company": "Aconex",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "R"
+      ],
+      "description": "Aconex provides a leading cloud collaboration platform for the global construction industry. This platform gives owners and contractors in the construction, infrastructure, and energy and resources sectors project-wide visibility and control between the many different organizations collaborating across their projects. For more information and examples of Aconex in action, see http://www.aconex.com/. Follow Aconex on Twitter at @aconex and on LinkedIn at www.linkedin.com/company/aconex. We want \u2026",
+      "apply_link": "https://www.adzuna.in/details/1171509558?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "JavaScript Developer",
+      "company": "6Simplex",
+      "location": "Nagpur, Maharashtra",
+      "skills": [
+        "CSS",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R"
+      ],
+      "description": "The right candidate for a JavaScript Developer position at 6Simplex must have Ability to design modular client side application architectures. Strong knowledge of software engineering principles, frameworks, web technologies, W3C standards, and JavaScript based UI design patterns Experience using Web 2.0 technologies including HTML5, JavaScript, CSS, AJAX. Experience consuming back end services with JavaScript AJAX clients using JSON. Familiarity with JavaScript AMD based module loaders and fro\u2026",
+      "apply_link": "https://www.adzuna.in/details/1155089239?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript Developer",
+      "company": "Media.net",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "Angular",
+        "CSS",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R",
+        "React"
+      ],
+      "description": "Looking for a smart javascript developer to work with a team of young team UI developers who are good at CSS/ HTML but need mentoring in JavaScript. You will be required to deliver individual modules as well as mentor the other guys when they get stuck with JavaScript work. Skills: Javascript, HTML/CSS, jQuery, AJAX, AngularJS (1.x), React.js and Backbone.js",
+      "apply_link": "https://www.adzuna.in/details/1433306716?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript Developer",
+      "company": "Ticketmaster",
+      "location": "Delhi, India",
+      "skills": [
+        "Angular",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R",
+        "React"
+      ],
+      "description": "IOMEDIA India Private Limited (a Division of Ticketmaster) is looking for an enthusiastic JavaScript Developer for their studio in Gurgaon, Haryana. Sr. JavaScript Developer Essential Requirements: React. Js Experience developing web apps using Object Oriented Javascript. Experience developing hybrid mobile applications using Javascript MVC frameworks eg. Angular.js/Backbone.js/Ember.js. Strong experience in Mobile UI Frameworks e.g. Jquery Mobile, Ionic Strong experience in working with HTML5 \u2026",
+      "apply_link": "https://www.adzuna.in/details/1171508137?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript Developer",
+      "company": "Multi Recruit",
+      "location": "Bangalore, Karnataka",
+      "skills": [
+        "Java",
+        "JavaScript",
+        "R"
+      ],
+      "description": "Identify bad code practices in JavaScript and write new analyzers to detect them. Improve the coverage of automatically fixable issues. Ensure fewer false-positives are reported by the analyzer. Work on the internal tools that support analysis runtimes. Contribute to open-source static analysis tools. We\u2019re looking for someone who has: Strong foundational knowledge in Computer Science. At least 3 years of professional software development experience in JavaScript. Understanding of the nuances o\u2026",
+      "apply_link": "https://www.adzuna.in/details/2853928225?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript Developer",
+      "company": "Blaze Web Services Private Limited",
+      "location": "Madurai, Tamil Nadu",
+      "skills": [
+        "Angular",
+        "Java",
+        "JavaScript",
+        "R",
+        "React"
+      ],
+      "description": "BLAZE Madurai looking for JavaScript Frontend & Backend developer with hands-on web or mobile app development. Skills required for JS Frontend developer: Must have strong experience in Angular JS , React JS ,Ember, etc. Cross-platform JS development experience with any of following tools is a plus (Ionic , Meteor.js , React Native, PhoneGap) Good understanding of the knowledge of advanced JavaScript like Objects/Closures/Async Events/etc is required Proficient understanding of code versioning t\u2026",
+      "apply_link": "https://www.adzuna.in/details/2162708789?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "title": "Javascript Developer",
+      "company": "Extern Labs",
+      "location": "Jaipur, Rajasthan",
+      "skills": [
+        "Angular",
+        "CSS",
+        "Excel",
+        "Git",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R",
+        "React"
+      ],
+      "description": "Role - Javascript developer Location - Jaipur Experience - 1-5 years Skills and Qualifications \u25cf Experience in developing front-end components using Object-Oriented JavaScript, HTML5, and CSS3 \u25cf Skilled at Object-Oriented JavaScript and having a working knowledge of at least one of the following Frameworks (Angular, React etc.) \u25cf Add on Excellent knowledge of working with dynamic data (e.g., JSON, XML) \u25cfGood understanding of version control systems like Git Roles and Responsibilities \u25cf Develop \u2026",
+      "apply_link": "https://www.adzuna.in/details/1914318449?utm_medium=api&utm_source=6abd39fa"
+    }
+  ]
+}

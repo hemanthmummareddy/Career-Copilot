@@ -1,60 +1,86 @@
 {
-  "profile_id": 6,
+  "profile_id": 5,
   "matches": [
     {
-      "score": 0.5745605230331421,
-      "title": "Technical Project Manager",
-      "company": "Ascendion",
+      "score": 0.6798213720321655,
+      "title": "Python Backend Developer Intern (FastAPI)",
+      "company": "appscrip",
       "location": "Bangalore, Karnataka",
       "skills": [
-        "Java"
+        "FastAPI",
+        "Python",
+        "R"
       ],
-      "description": "Job Title :: Technical Delivery Manager Location :: Bengaluru (Hybrid) Minimum relevant years of experience :: 10 Years Must have skills: Guidewire Platform (Policy Center / Billing Center) Guidewire Integrations (Web Services, REST APIs) GOSU & Java Development Guidewire Cloud Experience Job Description: Core must have: 5-10 Years Insurance and Guidewire experience. Including Technical Architecture and Engineering Manager of a 7-8 team. BAU experience. Guidewire Cloud Experience. Guidewire Int\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
+      "description": "Python Backend Developer Intern (FastAPI) Location: Bangalore (On-site) Company: Appscrip About Appscrip At Appscrip, we build products that solve real business problems using modern technologies like AI, cloud infrastructure, and scalable backend systems. We're looking for developers who enjoy building things, learning quickly, and aren't afraid to dive into new technologies. If you've built projects in Python, experimented with FastAPI, or spent time playing around with AI and LLMs, we'd love\u2026",
+      "apply_link": "https://www.adzuna.in/details/5812187923?utm_medium=api&utm_source=6abd39fa"
     },
     {
-      "score": 0.5570936799049377,
-      "title": "Python Developer",
-      "company": "Vrinda International",
-      "location": "India",
+      "score": 0.652377724647522,
+      "title": "Senior Backend Engineer - FastAPI",
+      "company": "LearnTube.ai",
+      "location": "Mumbai, Maharashtra",
       "skills": [
-        "Python"
-      ],
-      "description": "? Hiring Alert | Python Developer ? ? Location: Bengaluru / Chennai / Pune / Mumbai / Delhi / Kolkata / Hyderabad ? Role: Python Developer ? Experience: 5\u20137 Years We are looking for a skilled Python Developer with strong backend development expertise and advanced Core Python programming skills to build scalable, high-performance applications. Requirements \u2022 5 years Python experience \u2022 Core Python, OOP, functional programming \u2022 Backend application development \u2022 Multithreading, multiprocessing, a\u2026",
-      "apply_link": "https://www.adzuna.in/details/5786738445?utm_medium=api&utm_source=6abd39fa"
-    },
-    {
-      "score": 0.540205717086792,
-      "title": "Assistant Professor of Computer Science",
-      "company": "SRM Institute of Science and Technology, Kattankulathur Campus",
-      "location": "India",
-      "skills": [
-        "Deep Learning",
-        "Machine Learning"
-      ],
-      "description": "SRM Institute of Science & Technology, Kattankulathur Campus, Chengalpattu Opening in School of Computing under 4 departments Computing Technologies Computational Intelligence Network and Communications Data Science and Business Systems Opening for Assistant Professor Experience - 0 to 18 years can apply Ph.D Specialization in CSE, IT, AI, ICE, Machine learning & Deep learning techniques. UG any degree, PG in M.E or M.Tech related to computer Science background. Note: Ph.D completed or Thesis S\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
-    },
-    {
-      "score": 0.5382522940635681,
-      "title": "Part time Data Science Instructor",
-      "company": "upGrad",
-      "location": "Chandigarh, India",
-      "skills": [],
-      "description": "Part-Time Data Science & AI Instructor (Chandigarh) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic, part-time Data Science Instructor in Chandigarh who is well-versed in cutting-edge technologies like Generative AI and Agentic AI . If you want to balance your current professional commitments while mentoring ambitious students and working professionals in a classroom setting, this is the perfect role for you! Type: Part-Time Location: Chandigarh (In-person cl\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5786785222?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=78D6E4552F3A298AAD947A4F7456D861BB972055"
-    },
-    {
-      "score": 0.532123863697052,
-      "title": "Associate / Assistant Professor - Advanced Computing",
-      "company": "DBS Global University",
-      "location": "Dehradun, Uttarakhand",
-      "skills": [
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "FastAPI",
+        "GCP",
         "Git",
-        "Machine Learning"
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "R",
+        "REST API",
+        "SQL"
       ],
-      "description": "DBS Global University (formerly Doon Business School Group) is looking for dynamic academic leaders and researchers for its School of Advanced Computing in Dehradun. Open Positions Associate Professor Assistant Professor Specializations Required Artificial Intelligence & Machine Learning (AI/ML) Data Science & Big Data Analytics Cyber Security & Digital Forensics Cloud Computing & DevOps Full Stack Development / Software Engineering Robotics IOT Drone Technology iOS Development Eligibility Crit\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5778926218?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0BD8DDB20FCDA19F3B4025FAC77720CA8E9471C0"
+      "description": "Required Core Tech Stack: We're looking for engineers with hands-on experience across most of the following technologies: Python Backend Development (3 years) FastAPI (2 years of production experience required) PostgreSQL MongoDB Redis Docker Celery or equivalent async task queues REST APIs & Microservices AWS/GCP GitLab CI/CD The selected Sr. Backend engineer will ship the backbone that powers 4 million  learners in 64 countries \u2014owning APIs that crunch 1 billion learning events & the AI that \u2026",
+      "apply_link": "https://www.adzuna.in/details/5770458005?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "score": 0.6325573325157166,
+      "title": "Full Stack Python Developer (FastAPI)",
+      "company": "Topcoder",
+      "location": "Noida, Ghaziabad",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R",
+        "REST API"
+      ],
+      "description": "We are looking for a Full Stack Python Developer with strong hands-on experience in Python and FastAPI to build and maintain scalable web applications and APIs. Responsibilities Develop and maintain backend services and REST APIs using Python and FastAPI Work on end-to-end features across backend and frontend Integrate databases and third-party services Write clean, maintainable, and testable code Collaborate with cross-functional teams in an Agile setup Skills Required Strong Python developmen\u2026",
+      "apply_link": "https://www.adzuna.in/details/5671080668?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "score": 0.6229427456855774,
+      "title": "Javascript Developer",
+      "company": "Extern Labs",
+      "location": "Jaipur, Rajasthan",
+      "skills": [
+        "Angular",
+        "CSS",
+        "Excel",
+        "Git",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "R",
+        "React"
+      ],
+      "description": "Role - Javascript developer Location - Jaipur Experience - 1-5 years Skills and Qualifications \u25cf Experience in developing front-end components using Object-Oriented JavaScript, HTML5, and CSS3 \u25cf Skilled at Object-Oriented JavaScript and having a working knowledge of at least one of the following Frameworks (Angular, React etc.) \u25cf Add on Excellent knowledge of working with dynamic data (e.g., JSON, XML) \u25cfGood understanding of version control systems like Git Roles and Responsibilities \u25cf Develop \u2026",
+      "apply_link": "https://www.adzuna.in/details/1914318449?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "score": 0.6171625256538391,
+      "title": "Python Developer (FastAPI)",
+      "company": "Hunarstreet Technologies Pvt Ltd",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "FastAPI",
+        "Python",
+        "R"
+      ],
+      "description": "Job Title: Python Developer (FastAPI) Experience Required: 4 years Location: Pune, Bangalore, Hyderabad, Mumbai, Panchkula, Mohali Shift: Night Shift 6:30 pm to 3:30 AM IST About the Role We are seeking an experienced Python Developer with strong expertise in FastAPI to join our engineering team. The ideal candidate should have a solid background in backend development, RESTful API design, and scalable application development. Required Skills & Qualifications \u00b7 4 years of professional experienc\u2026",
+      "apply_link": "https://www.adzuna.in/details/5416720146?utm_medium=api&utm_source=6abd39fa"
     }
   ]
 }

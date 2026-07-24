@@ -1,0 +1,54 @@
+[
+  {
+    "score": 0.6798213720321655,
+    "title": "Python Backend Developer Intern (FastAPI)",
+    "company": "appscrip",
+    "location": "Bangalore, Karnataka",
+    "skills": [
+      "FastAPI",
+      "Python",
+      "R"
+    ],
+    "description": "Python Backend Developer Intern (FastAPI) Location: Bangalore (On-site) Company: Appscrip About Appscrip At Appscrip, we build products that solve real business problems using modern technologies like AI, cloud infrastructure, and scalable backend systems. We're looking for developers who enjoy building things, learning quickly, and aren't afraid to dive into new technologies. If you've built projects in Python, experimented with FastAPI, or spent time playing around with AI and LLMs, we'd love\u2026",
+    "apply_link": "https://www.adzuna.in/details/5812187923?utm_medium=api&utm_source=6abd39fa",
+    "explanation": "This role is an excellent fit because your existing Python foundation directly translates to building backend systems with FastAPI, while your experience with Machine Learning positions you well for working on AI and LLM projects at Appscrip. The only specific skill mentioned in the required list that appears missing from your profile is R; since it is explicitly listed as a requirement alongside FastAPI and Python, learning this language would make you fully aligned with the job description before applying."
+  },
+  {
+    "score": 0.652377724647522,
+    "title": "Senior Backend Engineer - FastAPI",
+    "company": "LearnTube.ai",
+    "location": "Mumbai, Maharashtra",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "FastAPI",
+      "GCP",
+      "Git",
+      "MongoDB",
+      "PostgreSQL",
+      "Python",
+      "R",
+      "REST API",
+      "SQL"
+    ],
+    "description": "Required Core Tech Stack: We're looking for engineers with hands-on experience across most of the following technologies: Python Backend Development (3 years) FastAPI (2 years of production experience required) PostgreSQL MongoDB Redis Docker Celery or equivalent async task queues REST APIs & Microservices AWS/GCP GitLab CI/CD The selected Sr. Backend engineer will ship the backbone that powers 4 million  learners in 64 countries \u2014owning APIs that crunch 1 billion learning events & the AI that \u2026",
+    "apply_link": "https://www.adzuna.in/details/5770458005?utm_medium=api&utm_source=6abd39fa",
+    "explanation": "This position is an excellent fit because your strong foundation in Python development with over two years of FastAPI production experience aligns perfectly with the role's core requirement to build scalable APIs for 4 million learners, while your knowledge of Git and cloud technologies demonstrates readiness for managing complex microservices infrastructure. The one specific skill from the required list that is currently missing but should be learned next is **AWS** (or alternatively GCP), as this experience is crucial for deploying and maintaining the backend backbone in a production environment."
+  },
+  {
+    "score": 0.6325573325157166,
+    "title": "Full Stack Python Developer (FastAPI)",
+    "company": "Topcoder",
+    "location": "Noida, Ghaziabad",
+    "skills": [
+      "FastAPI",
+      "Python",
+      "R",
+      "REST API"
+    ],
+    "description": "We are looking for a Full Stack Python Developer with strong hands-on experience in Python and FastAPI to build and maintain scalable web applications and APIs. Responsibilities Develop and maintain backend services and REST APIs using Python and FastAPI Work on end-to-end features across backend and frontend Integrate databases and third-party services Write clean, maintainable, and testable code Collaborate with cross-functional teams in an Agile setup Skills Required Strong Python developmen\u2026",
+    "apply_link": "https://www.adzuna.in/details/5671080668?utm_medium=api&utm_source=6abd39fa",
+    "explanation": "This role is an excellent fit because the candidate possesses core Python expertise alongside FastAPI experience directly requested by Topcoder for building scalable backend services and REST APIs. However, since R programming language is listed as a required skill but not present in the candidate's profile, they should prioritize learning it next to fully align with the job requirements."
+  }
+]
