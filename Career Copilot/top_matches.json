@@ -1,19 +1,31 @@
 {
-  "profile_id": 6,
+  "profile_id": 10,
   "matches": [
     {
-      "score": 0.5745605230331421,
-      "title": "Technical Project Manager",
-      "company": "Ascendion",
-      "location": "Bangalore, Karnataka",
+      "score": 0.6299908757209778,
+      "title": "Python Developer",
+      "company": "Weekday AI",
+      "location": "India",
       "skills": [
-        "Java"
+        "Python"
       ],
-      "description": "Job Title :: Technical Delivery Manager Location :: Bengaluru (Hybrid) Minimum relevant years of experience :: 10 Years Must have skills: Guidewire Platform (Policy Center / Billing Center) Guidewire Integrations (Web Services, REST APIs) GOSU & Java Development Guidewire Cloud Experience Job Description: Core must have: 5-10 Years Insurance and Guidewire experience. Including Technical Architecture and Engineering Manager of a 7-8 team. BAU experience. Guidewire Cloud Experience. Guidewire Int\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
+      "description": "This role is for one of the Weekday's clients We are seeking a skilled Python Developer with a strong background in software development, specializing in Python and related frameworks. The ideal candidate will have experience in building scalable, high-performance applications and a keen interest in AI/ML technologies. This role requires hands-on expertise in backend development, API integration, and cloud platforms , along with a collaborative mindset to work in a fast-paced, innovative enviro\u2026",
+      "apply_link": "https://www.adzuna.in/details/5636067155?utm_medium=api&utm_source=6abd39fa"
     },
     {
-      "score": 0.5570936799049377,
+      "score": 0.6230733394622803,
+      "title": "Assistant Professor of Computer Science",
+      "company": "SRM Institute of Science and Technology, Kattankulathur Campus",
+      "location": "India",
+      "skills": [
+        "Deep Learning",
+        "Machine Learning"
+      ],
+      "description": "SRM Institute of Science & Technology, Kattankulathur Campus, Chengalpattu Opening in School of Computing under 4 departments Computing Technologies Computational Intelligence Network and Communications Data Science and Business Systems Opening for Assistant Professor Experience - 0 to 18 years can apply Ph.D Specialization in CSE, IT, AI, ICE, Machine learning & Deep learning techniques. UG any degree, PG in M.E or M.Tech related to computer Science background. Note: Ph.D completed or Thesis S\u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
+    },
+    {
+      "score": 0.5849784016609192,
       "title": "Python Developer",
       "company": "Vrinda International",
       "location": "India",
@@ -24,37 +36,33 @@
       "apply_link": "https://www.adzuna.in/details/5786738445?utm_medium=api&utm_source=6abd39fa"
     },
     {
-      "score": 0.540205717086792,
-      "title": "Assistant Professor of Computer Science",
-      "company": "SRM Institute of Science and Technology, Kattankulathur Campus",
-      "location": "India",
+      "score": 0.5825020670890808,
+      "title": "Python Developer",
+      "company": "Deqode",
+      "location": "Mumbai, Maharashtra",
+      "skills": [
+        "FastAPI",
+        "Git",
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "SQL"
+      ],
+      "description": " Hiring: Python Developer \u2b50 Experience: 2 Years  Location: Mumbai \u2b50 Work Mode:- 5 Days Work From Office \u23f1\ufe0f Notice Period: Immediate Joiners (Only immediate joiners & candidates serving notice period) Looking for a skilled Python Developer with experience in Django / FastAPI and MongoDB / PostgreSQL. \u2b50 Must-Have Skills: - \u2705 2 years of professional experience as a Python Developer \u2705Proficient in Django or FastAPI \u2705Hands-on with MongoDB & PostgreSQL \u2705Strong understanding of REST APIs & Git Skills:\u2026",
+      "apply_link": "https://www.adzuna.in/details/5710913309?utm_medium=api&utm_source=6abd39fa"
+    },
+    {
+      "score": 0.575211226940155,
+      "title": "Faculty Member (as per UGC Cadre) - Computer Science, AI & Machine Learning",
+      "company": "ATLAS SkillTech University",
+      "location": "Mumbai, Maharashtra",
       "skills": [
         "Deep Learning",
-        "Machine Learning"
+        "Machine Learning",
+        "NLP"
       ],
-      "description": "SRM Institute of Science & Technology, Kattankulathur Campus, Chengalpattu Opening in School of Computing under 4 departments Computing Technologies Computational Intelligence Network and Communications Data Science and Business Systems Opening for Assistant Professor Experience - 0 to 18 years can apply Ph.D Specialization in CSE, IT, AI, ICE, Machine learning & Deep learning techniques. UG any degree, PG in M.E or M.Tech related to computer Science background. Note: Ph.D completed or Thesis S\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
-    },
-    {
-      "score": 0.5382522940635681,
-      "title": "Part time Data Science Instructor",
-      "company": "upGrad",
-      "location": "Chandigarh, India",
-      "skills": [],
-      "description": "Part-Time Data Science & AI Instructor (Chandigarh) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic, part-time Data Science Instructor in Chandigarh who is well-versed in cutting-edge technologies like Generative AI and Agentic AI . If you want to balance your current professional commitments while mentoring ambitious students and working professionals in a classroom setting, this is the perfect role for you! Type: Part-Time Location: Chandigarh (In-person cl\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5786785222?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=78D6E4552F3A298AAD947A4F7456D861BB972055"
-    },
-    {
-      "score": 0.532123863697052,
-      "title": "Associate / Assistant Professor - Advanced Computing",
-      "company": "DBS Global University",
-      "location": "Dehradun, Uttarakhand",
-      "skills": [
-        "Git",
-        "Machine Learning"
-      ],
-      "description": "DBS Global University (formerly Doon Business School Group) is looking for dynamic academic leaders and researchers for its School of Advanced Computing in Dehradun. Open Positions Associate Professor Assistant Professor Specializations Required Artificial Intelligence & Machine Learning (AI/ML) Data Science & Big Data Analytics Cyber Security & Digital Forensics Cloud Computing & DevOps Full Stack Development / Software Engineering Robotics IOT Drone Technology iOS Development Eligibility Crit\u2026",
-      "apply_link": "https://www.adzuna.in/land/ad/5778926218?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0BD8DDB20FCDA19F3B4025FAC77720CA8E9471C0"
+      "description": "Role Overview Atlas SkillTech University invites applications from dynamic academicians, researchers, and industry practitioners in Computer Science, Artificial Intelligence, Machine Learning, and allied domains. The selected faculty will anchor advanced courses in AI/ML, Deep Learning, NLP, Generative AI, and Data Science while driving cutting-edge research and industry-linked innovation. As part of the vibrant uGDX School of Technology, you will mentor India's next generation of AI engineers \u2026",
+      "apply_link": "https://www.adzuna.in/land/ad/5787963989?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=3AA53270E70C188754E2DD286FEE1A3C3616EE72"
     }
   ]
 }

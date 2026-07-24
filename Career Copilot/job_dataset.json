@@ -1,15 +1,5 @@
 [
   {
-    "title": "Technical Delivery Manager - Python AI",
-    "company": "Luxoft",
-    "location": "Chennai, Tamil Nadu",
-    "skills": [
-      "Python"
-    ],
-    "description": "Project Description: We are looking for a motivated and experienced Delivery Manager with deep expertise in building Python / Pyspark data engineering solutions for a critical Trade Surveillance project built on Q KDB and Python / Pyspark Responsibilities :Mentor & guide Python developers & automation engineers in building world class product sPerform code reviews and provide constructive feedback to developer sManage a team of 30 developers & automation engineer sPrepare delivery plan and liai\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5773100155?se=7H8onI2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=E235B37D28BA8A4E83F1CB8DA8137DE166CD2EB8"
-  },
-  {
     "title": "Python Developer",
     "company": "Unknown",
     "location": "Warangal, Telangana",
@@ -28,16 +18,6 @@
     ],
     "description": "? Hiring Alert | Python Developer ? ? Location: Bengaluru / Chennai / Pune / Mumbai / Delhi / Kolkata / Hyderabad ? Role: Python Developer ? Experience: 5\u20137 Years We are looking for a skilled Python Developer with strong backend development expertise and advanced Core Python programming skills to build scalable, high-performance applications. Requirements \u2022 5 years Python experience \u2022 Core Python, OOP, functional programming \u2022 Backend application development \u2022 Multithreading, multiprocessing, a\u2026",
     "apply_link": "https://www.adzuna.in/details/5786738445?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Papigen",
-    "location": "Chennai, Tamil Nadu",
-    "skills": [
-      "Python"
-    ],
-    "description": "Job Summary We are hiring a Python Developer to design and build programs for data reconciliation, file comparison, and system integrations . The role focuses on developing efficient Python scripts, handling multiple file formats, and integrating with APIs and databases. Key Responsibilities Design and develop Python programs for file comparison and reconciliation . Build pipelines and automation scripts for data processing (JSON, XML, CSV, XLS) . Integrate applications with APIs, web services,\u2026",
-    "apply_link": "https://www.adzuna.in/details/5767402009?utm_medium=api&utm_source=6abd39fa"
   },
   {
     "title": "Python Developer",
@@ -71,14 +51,44 @@
   },
   {
     "title": "Python Developer",
-    "company": "Scout Incorporation",
+    "company": "Acme Services Private Limited",
     "location": "India",
     "skills": [
-      "Flask",
       "Python"
     ],
-    "description": "We're looking for Python Developers (India)! Responsibilities: Writing clean, efcient, and well-documented Python code Debugging and troubleshooting code issues Developing and maintaining software applications and tools using Flask and APIs Collaborating with team members to identify, design, and implement new features Participating in code reviews to ensure code quality and consistency Working with project managers and stakeholders to understand requirements and develop technical solutions Sta\u2026",
-    "apply_link": "https://www.adzuna.in/details/5810200651?utm_medium=api&utm_source=6abd39fa"
+    "description": "Job Description: To develop, maintain, and enhance scalable backend systems using Python. To design and build APIs, services, and data-driven applications for web-based products and platforms. To work across full stack development, including frontend integration where required. To translate business requirements into clear, structured, and maintainable technical solutions. To integrate third-party services, external tools, APIs, and AI-based workflows into applications. To ensure application pe\u2026",
+    "apply_link": "https://www.adzuna.in/details/5808321036?utm_medium=api&utm_source=6abd39fa"
+  },
+  {
+    "title": "Python Developer/ Senior Python Developer",
+    "company": "APT Research",
+    "location": "Delhi, India",
+    "skills": [],
+    "description": "About APT Research Pvt. Ltd. APT Research is the research and data analytics arm of APT Portfolio, a quantitative investment firm that thrives on cutting-edge technology, scientific thinking, and deep market insight. We are a team of scientists, engineers, and innovators powering algorithmic trading and financial research at scale. Learn more at www.aptportfolio.com. The Data Management & Research (DMR) team plays a pivotal role in building high-performance systems, storage, distributed computi\u2026",
+    "apply_link": "https://www.adzuna.in/details/5485049501?utm_medium=api&utm_source=6abd39fa"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Deqode",
+    "location": "Mumbai, Maharashtra",
+    "skills": [
+      "FastAPI",
+      "Git",
+      "MongoDB",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "description": " Hiring: Python Developer \u2b50 Experience: 2 Years  Location: Mumbai \u2b50 Work Mode:- 5 Days Work From Office \u23f1\ufe0f Notice Period: Immediate Joiners (Only immediate joiners & candidates serving notice period) Looking for a skilled Python Developer with experience in Django / FastAPI and MongoDB / PostgreSQL. \u2b50 Must-Have Skills: - \u2705 2 years of professional experience as a Python Developer \u2705Proficient in Django or FastAPI \u2705Hands-on with MongoDB & PostgreSQL \u2705Strong understanding of REST APIs & Git Skills:\u2026",
+    "apply_link": "https://www.adzuna.in/details/5710913309?utm_medium=api&utm_source=6abd39fa"
+  },
+  {
+    "title": "Customer Experience Manager",
+    "company": "NR Consulting",
+    "location": "Bangalore, Karnataka",
+    "skills": [],
+    "description": "Job Description:- Manager / Senior Manager \u2013 Customer & Marketing Analytics Location: India As a Manager/Senior Manager, you will: 1. Work with clients leading marketing & customer roles at Fortune 100 Retailers 2. Work closely with stakeholders across the organization to gather requirements and understand the underlying business problems. Serve as the bridge between business needs and analytical solutions. 3. Collaboratively work with leadership and SMEs to create innovative solutions for busi\u2026",
+    "apply_link": "https://www.adzuna.in/land/ad/5811114866?se=iusqslCH8RG4J83nekfXWA&utm_medium=api&utm_source=6abd39fa&v=18C0756511F4BF38B6DABB83F4DD0AFE6B73610D"
   },
   {
     "title": "Data Analyst",
@@ -122,21 +132,11 @@
   },
   {
     "title": "Data Analyst",
-    "company": "Proof of Skill",
-    "location": "Andheri, Mumbai",
-    "skills": [
-      "SQL"
-    ],
-    "description": "Analyzing hiring and candidate data to improve decision-making, shortlisting, and overall system efficiency. Skills: Logical/analytical thinking, Excel/Google Sheets, basic SQL, data interpretation, data visualization, attention to detail. Responsibilities: Analyze candidate and hiring data, build dashboards and reports, improve shortlisting/scoring systems, track hiring funnel metrics, work with ops/product teams, ensure data accuracy. This is a remote position.",
-    "apply_link": "https://www.adzuna.in/details/5786180968?utm_medium=api&utm_source=6abd39fa"
-  },
-  {
-    "title": "Data Analyst",
     "company": "Sia",
     "location": "Mumbai, Maharashtra",
     "skills": [],
     "description": "Job Description We are hiring a Power BI Developer to support our global internal teams (Finance, HR, Strategy, Corporate Functions) by delivering high-impact business intelligence dashboards, datasets, and analytics solutions. This role is critical for strengthening our internal reporting systems and driving data-backed decision-making across the organization. Key Responsibilities Design, maintain, and enhance internal Power BI dashboards and analytics for Corporate Finance and other functions\u2026",
-    "apply_link": "https://www.adzuna.in/details/5791623332?utm_medium=api&utm_source=6abd39fa"
+    "apply_link": "https://www.adzuna.in/details/5812614536?utm_medium=api&utm_source=6abd39fa"
   },
   {
     "title": "Data Analyst",
@@ -148,23 +148,21 @@
   },
   {
     "title": "Data Analyst",
-    "company": "Digital Twin",
-    "location": "Pune, Maharashtra",
+    "company": "Proof of Skill",
+    "location": "Andheri, Mumbai",
     "skills": [
-      "Data Analysis"
+      "SQL"
     ],
-    "description": "Job Summary - Data Analyst We are looking to hire a data analyst to join our enterprise customer solutions team. As a Data Analyst, one will take responsibility for developing reports, and troubleshooting data issues. To do well in this role you need attention to detail, past experience as a data analyst, and a deep understanding of the popular data analysis tools and databases. Data Analyst Responsibilities: \u25cf Commissioning and decommissioning of data sets. \u25cf Processing confidential data and i\u2026",
-    "apply_link": "https://www.adzuna.in/details/5735463452?utm_medium=api&utm_source=6abd39fa"
+    "description": "Analyzing hiring and candidate data to improve decision-making, shortlisting, and overall system efficiency. Skills: Logical/analytical thinking, Excel/Google Sheets, basic SQL, data interpretation, data visualization, attention to detail. Responsibilities: Analyze candidate and hiring data, build dashboards and reports, improve shortlisting/scoring systems, track hiring funnel metrics, work with ops/product teams, ensure data accuracy. This is a remote position.",
+    "apply_link": "https://www.adzuna.in/details/5786180968?utm_medium=api&utm_source=6abd39fa"
   },
   {
-    "title": "Network Software Engineering Leader - Presales & Delivery",
-    "company": "ACL Digital",
-    "location": "Bangalore, Karnataka",
-    "skills": [
-      "Git"
-    ],
-    "description": "Dear All, Greetings of the day\u2026! ACL Digital is actively hiring for Network Software Engineering Leader - Presales & Delivery to join our dynamic team in Bengaluru Job Requirement - 20 Years Industry Experience in Network Software Engineering Role Title - Networking Engineering Leader \u2013 Pre Sales & Delivery Role Overview We are seeking a senior, highly experienced Networking and Telecom Systems Architect who can own end to end responsibility from pre sales through delivery. This role requires d\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5774752603?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0737FED0799D7E4158DDC962E5AF83566055E486"
+    "title": "Associate Account Director",
+    "company": "Clarion Technologies",
+    "location": "India",
+    "skills": [],
+    "description": "Associate Account Director \u2013 US SMB Sales (IT Services / Software Engineering Services) Location: Pune (Hybrid \u2013 3 Days/Week from Office) Shift Timing: US Shift (5:00 PM \u2013 2:00 AM IST) Experience: 5\u20138 Years About the Role We are looking for a high-performing Associate Account Director to drive new business growth in the US SMB market. The ideal candidate will own the complete sales cycle\u2014from opportunity qualification to deal closure\u2014while working closely with SDRs, Marketing, and Delivery team\u2026",
+    "apply_link": "https://www.adzuna.in/land/ad/5812353351?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=6D91C9D2EF65FB4FE8C3AE604F52F61E4D17C1E9"
   },
   {
     "title": "AEM Content Author",
@@ -172,15 +170,7 @@
     "location": "Chennai, Tamil Nadu",
     "skills": [],
     "description": "Hello Connections, We are hiring for Webmaster/ content author Job Location: Chennai IT WILL BE ROTATIONAL SHIFTS NOTE: WHO ARE READY TO WORK FOR ROTATIONAL SHIFTS ONLY APPLY Looking for immediate joiner. JOB PURPOSE The Webmaster/Web Assembler reports to the Team Lead and works closely with the Software engineers and Software Test engineers to provide quality delivery on the web application/website. He/she is responsible for integrating several modules together to create a web pages, added con\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5785410813?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=D12F9AE6BDD29E6C39109643CC5CC72DDF3E12AD"
-  },
-  {
-    "title": "Associate Professor - Computer Science",
-    "company": "Newton School of Technology",
-    "location": "Sonipat, Haryana",
-    "skills": [],
-    "description": "About the Company: Rishihood University, India\u2019s first impact university, in collaboration with Newton School of Technology, is redefining technology education through a future-focused, industry-integrated learning model. The university combines academic excellence with practical industry exposure to prepare students for successful careers in technology, innovation, and research. Key Responsibilities Deliver and mentor courses in Computer Networks and Compiler Design Design curriculum, assessme\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5776258768?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=F7C2280E0BB0E2A729EC8ADC15BA4834F2E5C98D"
+    "apply_link": "https://www.adzuna.in/land/ad/5785410813?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=D12F9AE6BDD29E6C39109643CC5CC72DDF3E12AD"
   },
   {
     "title": "Agent Engineer",
@@ -188,7 +178,7 @@
     "location": "Bangalore, Karnataka",
     "skills": [],
     "description": "Role: Agent Engineer Experience: 3 - 6 years Location: Bengaluru Role Summar y We are building an AI-native B2B intelligence platform. You will build our core Agentic Harness \u2014 a performant, configurable agent layer that powers everything from our database search to sourcing and selling agents. This is a hands-on builder role focused on system design, observability, and agent performance. Roles & Responsibiliti Build a lightweight, scalable agent harness that allows the business to configure an\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5753192857?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=34146D4EBDA58CDD2469D33B4415EF66930B5953"
+    "apply_link": "https://www.adzuna.in/land/ad/5753192857?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=34146D4EBDA58CDD2469D33B4415EF66930B5953"
   },
   {
     "title": "Technical Project Manager",
@@ -198,7 +188,7 @@
       "Java"
     ],
     "description": "Job Title :: Technical Delivery Manager Location :: Bengaluru (Hybrid) Minimum relevant years of experience :: 10 Years Must have skills: Guidewire Platform (Policy Center / Billing Center) Guidewire Integrations (Web Services, REST APIs) GOSU & Java Development Guidewire Cloud Experience Job Description: Core must have: 5-10 Years Insurance and Guidewire experience. Including Technical Architecture and Engineering Manager of a 7-8 team. BAU experience. Guidewire Cloud Experience. Guidewire Int\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
+    "apply_link": "https://www.adzuna.in/land/ad/5725158400?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=4334A63CE35ADC699ABC33D62E165D6E132E1078"
   },
   {
     "title": "Head of Sales",
@@ -208,7 +198,7 @@
       "Git"
     ],
     "description": "Position: Head of Sales \u2013 Software Engineering Services (SES) Geographic Focus: Global Sales Motion: New logo hunting  strategic account growth Team: Build & lead a dedicated SES Sales team from ground up Experience: 10 years in B2B technology sales leadership; Engineering Software / Digital Transformation domain Role Purpose Own and drive revenue growth for Neilsoft's SES Business Unit across Digital Transformation, Engineering Software Services, and Product Engineering domains. The Head of Sa\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5801404064?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=1B099F432EB24076320734A5B2D12B9A04A32F57"
+    "apply_link": "https://www.adzuna.in/land/ad/5801404064?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=1B099F432EB24076320734A5B2D12B9A04A32F57"
   },
   {
     "title": "Cyber Security Consultant",
@@ -216,7 +206,7 @@
     "location": "Hyderabad, Telangana",
     "skills": [],
     "description": "Company : TCS Skill : One Identity Experience : 4 to 15 Years Location : Hyderabad & Pune Date : 18th July 2026 (Saturday) Interview Mode : Face to Face (Walkin) Job Description : Experience as a One Identity Manager Engineer, Strong understanding of IAM concepts, including authentication, authorization, and access control. Through understanding of One Identity Manager Experienced in One Identity data model and able to make customization Experience in building and maintaining One Identity conne\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5799881165?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=17AC10A673E636E90111E4BB5FB16656E47266F8"
+    "apply_link": "https://www.adzuna.in/land/ad/5799881165?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=17AC10A673E636E90111E4BB5FB16656E47266F8"
   },
   {
     "title": "Assistant Professor / Associate Professor / Professor Computer Science & Engineering and Adjacent Disciplines",
@@ -224,7 +214,7 @@
     "location": "Hyderabad, Telangana",
     "skills": [],
     "description": "Woxsen University is one of India's leading private universities, recognized for academic excellence, global engagement, interdisciplinary education, and research-led innovation. The School of Technology is committed to developing future-ready engineers and researchers who solve real-world challenges through cutting-edge teaching, impactful research, and strong industry collaboration. We invite applications from exceptional academics and researchers for faculty positions at the Assistant Profes\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5795462718?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=23008571310C2E9CBB1C8B4195B8F3BE3A2BAF9A"
+    "apply_link": "https://www.adzuna.in/land/ad/5795462718?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=23008571310C2E9CBB1C8B4195B8F3BE3A2BAF9A"
   },
   {
     "title": "Associate / Assistant Professor - Advanced Computing",
@@ -235,7 +225,7 @@
       "Machine Learning"
     ],
     "description": "DBS Global University (formerly Doon Business School Group) is looking for dynamic academic leaders and researchers for its School of Advanced Computing in Dehradun. Open Positions Associate Professor Assistant Professor Specializations Required Artificial Intelligence & Machine Learning (AI/ML) Data Science & Big Data Analytics Cyber Security & Digital Forensics Cloud Computing & DevOps Full Stack Development / Software Engineering Robotics IOT Drone Technology iOS Development Eligibility Crit\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5778926218?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=0BD8DDB20FCDA19F3B4025FAC77720CA8E9471C0"
+    "apply_link": "https://www.adzuna.in/land/ad/5778926218?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=0BD8DDB20FCDA19F3B4025FAC77720CA8E9471C0"
   },
   {
     "title": "Assistant Professor\u2013 Programming Languages(First Year Students)",
@@ -243,7 +233,15 @@
     "location": "India",
     "skills": [],
     "description": "About the Role We are inviting applications from enthusiastic and academically strong candidates for the position with expertise in Programming Languages. The selected candidate will play a key role in building strong programming fundamentals among students while contributing to curriculum development, research, and institutional growth. Key Responsibilities Teach Programming Languages through lectures, tutorials, practical sessions, and laboratory exercises. Deliver courses in C Programming, C\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5806139273?se=UKU0nY2F8RGgQcTn0fwhJg&utm_medium=api&utm_source=6abd39fa&v=7089FD97F85A125355E29CAC6A0AC478EFDAC728"
+    "apply_link": "https://www.adzuna.in/land/ad/5806139273?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=7089FD97F85A125355E29CAC6A0AC478EFDAC728"
+  },
+  {
+    "title": "Technical Delivery Manager \u2013 Microsoft Technologies (.NET)",
+    "company": "Happiest Minds Technologies",
+    "location": "Bangalore, Karnataka",
+    "skills": [],
+    "description": "Technical Delivery Manager (.NET Background) Experience : 18 \u2013 22 years Location Bengaluru About the Role We are seeking an experienced Technical Delivery Manager \u2013 Project Management to lead the delivery of large-scale Application Development & Maintenance (ADM) engagements for a strategic global client. This leadership role is responsible for driving end-to-end delivery excellence, managing offshore operations, leading engineering teams of over 100 professionals, and building long-term client\u2026",
+    "apply_link": "https://www.adzuna.in/land/ad/5799881418?se=5mXCslCH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=EDC9A4CC71B13F3E4530E4C6087B74CFC56B1840"
   },
   {
     "title": "Faculty Member (as per UGC Cadre) - Computer Science, AI & Machine Learning",
@@ -255,7 +253,7 @@
       "NLP"
     ],
     "description": "Role Overview Atlas SkillTech University invites applications from dynamic academicians, researchers, and industry practitioners in Computer Science, Artificial Intelligence, Machine Learning, and allied domains. The selected faculty will anchor advanced courses in AI/ML, Deep Learning, NLP, Generative AI, and Data Science while driving cutting-edge research and industry-linked innovation. As part of the vibrant uGDX School of Technology, you will mentor India's next generation of AI engineers \u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5787963989?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=3AA53270E70C188754E2DD286FEE1A3C3616EE72"
+    "apply_link": "https://www.adzuna.in/land/ad/5787963989?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=3AA53270E70C188754E2DD286FEE1A3C3616EE72"
   },
   {
     "title": "Assistant Professor \u2013 Computer Science & Engineering (AI & ML)",
@@ -265,7 +263,7 @@
       "Machine Learning"
     ],
     "description": "Brainware University, Barasat, West Bengal, India (On-site)  We Are Hiring: Assistant Professor \u2013 Computer Science & Engineering (AI & ML) Are you a passionate academician in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or allied emerging technologies ? Do you want to build a career in a research-driven, innovation-focused university that values teaching excellence, publications, funded projects, and AI-enabled learning ? Brainware University invites applications f\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5783569310?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=510C23BD2415EECEC8040713A0879ED9A19E74AF"
+    "apply_link": "https://www.adzuna.in/land/ad/5783569310?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=510C23BD2415EECEC8040713A0879ED9A19E74AF"
   },
   {
     "title": "Data Science Instructor",
@@ -276,15 +274,7 @@
       "Machine Learning"
     ],
     "description": "Data Science Instructor (Jaipur) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic Data Science Instructor in Jaipur Key Responsibilities As a Instructor, you will play a vital role in ensuring high-quality learning outcomes: Deliver High-Impact Sessions: Conduct engaging, in-person lectures and hands-on training sessions in Data Science, Machine Learning, Deep Learning, and cutting-edge GenAI/Agentic AI frameworks. Project Mentorship: Guide learners through re\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5806140450?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=6D2845F232523FDFE0FDD8CB7BC2306085E389FE"
-  },
-  {
-    "title": "Project Manager",
-    "company": "NR Consulting",
-    "location": "Bangalore, Karnataka",
-    "skills": [],
-    "description": "Job Description \u2013 Technical Project Manager (TPM) \u2013 AI/ML Position Technical Project Manager (TPM) \u2013 AI/ML Experience 13\u201319 Years Locations Hyderabad, Bangalore, Chennai, Pune, Kolkata, Gurgaon Job Summary We are looking for an experienced and dynamic Technical Project Manager (TPM) with strong expertise in AI/ML technologies, MLOps, Data Engineering, and Data Science. The ideal candidate will lead large-scale AI transformation programs, manage cross-functional technical teams, and drive end-to\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5802784672?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=A1A9BD1CA52643266CA1D5115E7F33A39A6B6AD6"
+    "apply_link": "https://www.adzuna.in/land/ad/5806140450?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=6D2845F232523FDFE0FDD8CB7BC2306085E389FE"
   },
   {
     "title": "Teaching Assistant",
@@ -292,7 +282,7 @@
     "location": "India",
     "skills": [],
     "description": "We are looking for researchers who can work with us as Teaching Assistants for one of our clients which is one of the biggest educational institutes in India. As a Teaching Assistant, your role will be to support learners throughout the course by providing academic guidance, evaluating assessments, and ensuring an engaging learning experience. Responsibilities: Provide academic support by responding to learner queries through discussion forums, email, and live doubt-clearing sessions. Evaluate \u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5809278240?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=F136D628F29955FFB6C2EE4EE68AFB9109642FB9"
+    "apply_link": "https://www.adzuna.in/land/ad/5809278240?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=F136D628F29955FFB6C2EE4EE68AFB9109642FB9"
   },
   {
     "title": "Part time Data Science Instructor",
@@ -300,7 +290,7 @@
     "location": "Chandigarh, India",
     "skills": [],
     "description": "Part-Time Data Science & AI Instructor (Chandigarh) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic, part-time Data Science Instructor in Chandigarh who is well-versed in cutting-edge technologies like Generative AI and Agentic AI . If you want to balance your current professional commitments while mentoring ambitious students and working professionals in a classroom setting, this is the perfect role for you! Type: Part-Time Location: Chandigarh (In-person cl\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5786785222?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=78D6E4552F3A298AAD947A4F7456D861BB972055"
+    "apply_link": "https://www.adzuna.in/land/ad/5786785222?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=78D6E4552F3A298AAD947A4F7456D861BB972055"
   },
   {
     "title": "Assistant Professor of Computer Science",
@@ -311,7 +301,7 @@
       "Machine Learning"
     ],
     "description": "SRM Institute of Science & Technology, Kattankulathur Campus, Chengalpattu Opening in School of Computing under 4 departments Computing Technologies Computational Intelligence Network and Communications Data Science and Business Systems Opening for Assistant Professor Experience - 0 to 18 years can apply Ph.D Specialization in CSE, IT, AI, ICE, Machine learning & Deep learning techniques. UG any degree, PG in M.E or M.Tech related to computer Science background. Note: Ph.D completed or Thesis S\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
+    "apply_link": "https://www.adzuna.in/land/ad/5742257783?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=5B2079667667CB7E6004F6E1E1A71D70D49BBB13"
   },
   {
     "title": "Assistant Professor of Computer Science",
@@ -319,6 +309,6 @@
     "location": "Faridabad, Haryana",
     "skills": [],
     "description": "Key Responsibilities: Develop and deliver engaging course content Assess and evaluate student performance Conduct research and publish findings in academic journals Participate in departmental meetings and committees Mentor and advise students on academic and career paths Stay updated with the latest advancements in computer science Qualifications: Ph.D. in Computer Science or a related field Minimum of 3 years of teaching experience at the university level Demonstrated research experience with\u2026",
-    "apply_link": "https://www.adzuna.in/land/ad/5760052496?se=JvaonY2F8RGMaYqMHbyT4w&utm_medium=api&utm_source=6abd39fa&v=FBFF47F02B8AF8641B62BE3825366489ECB1DF96"
+    "apply_link": "https://www.adzuna.in/land/ad/5760052496?se=DGRXs1CH8RGlu8FcJJTwKw&utm_medium=api&utm_source=6abd39fa&v=FBFF47F02B8AF8641B62BE3825366489ECB1DF96"
   }
 ]
