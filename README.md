@@ -56,11 +56,10 @@ Career Copilot/
   final_recommendations.json  # output of step 4
   uploads/                    # sample resumes used to test the pipeline
 
-ai-agents/   # separate coursework notebooks (LangGraph agent + tool servers), unrelated to the main pipeline
-rag/         # separate coursework notebooks on RAG chunking / HyDE, used while researching the matching approach
+
 ```
 
-The `ai-agents` and `rag` folders are notebooks from the AMD Developer Cloud tutorial series that I went through while figuring out how retrieval and agent tool-calling actually work under the hood — they're not part of the CareerPilot pipeline itself, just kept in the repo since some of that thinking fed into how step 3 and step 4 were built.
+
 
 ## Setup
 
@@ -75,7 +74,7 @@ You'll also need:
 - An **Adzuna API** app ID + key (free tier is fine) for notebook 2 — get one at [developer.adzuna.com](https://developer.adzuna.com/).
 - **Ollama** running locally with a model already pulled, for notebook 4. Check what you have with `ollama list`. If you're on a shared/restricted box, you can't necessarily pull new models, so just pick whatever's already there and update `OLLAMA_MODEL`.
 
-> ⚠️ Note to self before this goes anywhere public: the Adzuna credentials in `2_job_fetching.ipynb` are currently hardcoded in the notebook. Pull those into environment variables (or a `.env` file that's gitignored) before pushing this to a public repo — the notebook even says as much in a comment above the keys.
+
 
 ### Running it
 
